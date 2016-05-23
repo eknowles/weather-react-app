@@ -1,0 +1,24 @@
+{
+  "name": "weather-react-app",
+  "version": "0.0.0",
+  "authors": [
+    "Edward Knowles <mail@eknowles.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~15.1.0",
+    "babel": "*",
+    "jquery": "~2.2.4"
+  }
+}
